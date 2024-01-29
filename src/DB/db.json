@@ -1,0 +1,267 @@
+{
+  "users": [
+    {
+      "name": "vieggggg",
+      "email": "lvv.vny@gmail.com",
+      "pass": "levanviet12345",
+      "permission": "admin",
+      "id": 1
+    },
+    {
+      "name": "UserTestttttaa",
+      "email": "usertest@gmail.com",
+      "pass": "usertest@gmail.com",
+      "permission": "user",
+      "id": 4
+    },
+    {
+      "name": "Assssssssssssssss",
+      "email": "usertesst@gmail.com",
+      "pass": "usertest@gmail.com",
+      "permission": "user",
+      "id": 5
+    }
+  ],
+  "contact": [
+    {
+      "name": "LE VIET",
+      "email": "lv.viet.vn@gmail.com",
+      "subject": "Ý kiến sửa lỗi",
+      "message": "Thanh toán bị lỗi,...",
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ],
+  "tongtienthanhtoan": [
+    {
+      "totalAmount": "113.940.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 1
+    },
+    {
+      "totalAmount": "113.940.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 2
+    },
+    {
+      "totalAmount": "113.940.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 3
+    },
+    {
+      "totalAmount": "113.940.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 4
+    },
+    {
+      "totalAmount": "113.940.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 5
+    },
+    {
+      "totalAmount": "113.940.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 6
+    },
+    {
+      "totalAmount": "0 ₫",
+      "email": "usertest@gmail.com",
+      "id": 7
+    },
+    {
+      "totalAmount": "18.990.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 8
+    },
+    {
+      "totalAmount": "0 ₫",
+      "email": "usertest@gmail.com",
+      "id": 9
+    },
+    {
+      "totalAmount": "0 ₫",
+      "email": "usertest@gmail.com",
+      "id": 10
+    },
+    {
+      "totalAmount": "37.980.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 11
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 12
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 13
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 14
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 15
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 16
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 17
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 18
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 19
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 20
+    },
+    {
+      "totalAmount": "75.960.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 21
+    },
+    {
+      "totalAmount": "21.390.000 ₫",
+      "email": "usertest@gmail.com",
+      "id": 22
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "name": "Laptop MSI Cyborg 15 A12VE 240VN",
+        "brand": "MSI",
+        "price": "21.390.000",
+        "description": "Laptop Gaming cân mượt mọi tựa game, đồ họa nặng nhất",
+        "image": "https://laptop88.vn/media/product/7968_ac___msi_cyborg_15_a12ve_240vn_23456_1567.jpg",
+        "specifications": "CPU: Intel Core i7 - 12650H\nRAM: 8GB DDR516GB DDR5 (8GB sẵn + (*)8GB quà tặng)\nỔ cứng: SSD 512GB NMVe\nCard đồ họa: Nvidia GeForce RTX 4050\nMàn hình: 15.6 Inch Full HD 144",
+        "quantity": "20",
+        "userId": 1,
+        "id": 1
+      },
+      "email": "usertest@gmail.com",
+      "productId": "1",
+      "id": 3
+    },
+    {
+      "product": {
+        "name": "Laptop Lenovo Legion Gaming Slim 5 16IRH8",
+        "brand": "Lenovo",
+        "price": "40.990.000",
+        "description": "Cấu hình khủng, máy cực mượt, chơi game cực đã!",
+        "image": "https://phucanhcdn.com/media/product/53424_laptop_lenovo_legion_gaming_slim_5_16irh8_8.jpg",
+        "specifications": "Bộ VXL: Core i7 13700H 3.7GHz\nBộ nhớ RAM: 16Gb (2x8Gb) DDR5 5200\nỔ cứng: 1TB SSD\nCard màn hình: VGA Nvidia - Nvidia GeForce RTX 4060 8GB GDDR6\nKích thước màn hình: 16.0inch WQXGA\nHệ điều hành: Windows 11 Home",
+        "quantity": "10",
+        "userId": 1,
+        "id": 6
+      },
+      "email": "usertest@gmail.com",
+      "productId": "6",
+      "id": 4
+    },
+    {
+      "product": {
+        "name": "Laptop HP Gaming Victus 16-e1107AX",
+        "brand": "HP Gaming",
+        "price": "17.590.000",
+        "description": "Mạnh mẽ trong tầm giá, phục vụ hoàn hảo cho mọi nhu cầu sử dụng",
+        "image": "https://phucanhcdn.com/media/product/49607_9.jpg",
+        "specifications": "Bộ VXL: Ryzen 5 6600H 3.3GHz\nBộ nhớ RAM: 8Gb DDR5 4800\nỔ cứng: 512Gb SSD\nCard màn hình: VGA Nvidia - Nvidia GeForce RTX 3050 4Gb GDDR6\nKích thước màn hình: 16.1inch FHD\nHệ điều hành: Windows 11 Home",
+        "quantity": "30",
+        "userId": 1,
+        "id": 5
+      },
+      "email": "",
+      "productId": "5",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Laptop MSI Cyborg 15 A12VE 240VN",
+      "brand": "MSI",
+      "price": "21.390.000",
+      "description": "Laptop Gaming cân mượt mọi tựa game, đồ họa nặng nhất",
+      "image": "https://laptop88.vn/media/product/7968_ac___msi_cyborg_15_a12ve_240vn_23456_1567.jpg",
+      "specifications": "CPU: Intel Core i7 - 12650H\nRAM: 8GB DDR516GB DDR5 (8GB sẵn + (*)8GB quà tặng)\nỔ cứng: SSD 512GB NMVe\nCard đồ họa: Nvidia GeForce RTX 4050\nMàn hình: 15.6 Inch Full HD 144",
+      "quantity": "20",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Laptop Asus TUF Gaming FX506HE-HN377W",
+      "brand": "Asus",
+      "price": "18.990.000",
+      "description": "Xứng tầm đẳng cấp game thủ, là người bạn đồng hành tuyệt vời",
+      "image": "https://phucanhcdn.com/media/product/52298_laptop_asus_tuf_gaming_fx506he_5.jpg",
+      "specifications": "Bộ VXL: Core i7 11800H 2.3GHz\nBộ nhớ RAM: 8Gb DDR4 3200\nỔ cứng: 512Gb SSD\nCard màn hình: VGA Nvidia - Nvidia GeForce RTX 3050Ti 4Gb GDDR6\nKích thước màn hình: 15.6inch Full HD\nHệ điều hành: Windows 11 Home",
+      "quantity": "25",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Laptop HP Gaming Victus 16-e1107AX",
+      "brand": "HP Gaming",
+      "price": "17.590.000",
+      "description": "Mạnh mẽ trong tầm giá, phục vụ hoàn hảo cho mọi nhu cầu sử dụng",
+      "image": "https://phucanhcdn.com/media/product/49607_9.jpg",
+      "specifications": "Bộ VXL: Ryzen 5 6600H 3.3GHz\nBộ nhớ RAM: 8Gb DDR5 4800\nỔ cứng: 512Gb SSD\nCard màn hình: VGA Nvidia - Nvidia GeForce RTX 3050 4Gb GDDR6\nKích thước màn hình: 16.1inch FHD\nHệ điều hành: Windows 11 Home",
+      "quantity": "30",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "name": "Laptop Lenovo Legion Gaming Slim 5 16IRH8",
+      "brand": "Lenovo",
+      "price": "40.990.000",
+      "description": "Cấu hình khủng, máy cực mượt, chơi game cực đã!",
+      "image": "https://phucanhcdn.com/media/product/53424_laptop_lenovo_legion_gaming_slim_5_16irh8_8.jpg",
+      "specifications": "Bộ VXL: Core i7 13700H 3.7GHz\nBộ nhớ RAM: 16Gb (2x8Gb) DDR5 5200\nỔ cứng: 1TB SSD\nCard màn hình: VGA Nvidia - Nvidia GeForce RTX 4060 8GB GDDR6\nKích thước màn hình: 16.0inch WQXGA\nHệ điều hành: Windows 11 Home",
+      "quantity": "10",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "name": "Laptop Acer Swift 3 SF314 43 R4X3 NX.AB1SV.004",
+      "brand": "Acer",
+      "price": "14.590.000",
+      "description": "Máy rẻ, cấu hình cao, chơi game ổn định!",
+      "image": "https://phucanhcdn.com/media/product/45838_swift_3_sf314_43_ha1.jpg",
+      "specifications": "Bộ VXL: Ryzen 5 5500U 2.1Ghz\nBộ nhớ RAM: 16Gb (Onboard) DDR4 3200\nỔ cứng: 512Gb SSD\nCard màn hình: VGA onboard - Intel Iris Xe Graphics\nKích thước màn hình: 14.0inch Full HD\nHệ điều hành: Windows 10",
+      "quantity": "15",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Laptop Dell Inspiron 3530 N3530I716W1",
+      "brand": "Dell",
+      "price": "22.490.000",
+      "description": "Giá sinh viên, nhưng cấu hình khủng!",
+      "image": "https://phucanhcdn.com/media/product/52009_laptop_dell_inspiron_3530_n3530i716w1_1.jpg",
+      "specifications": "Bộ VXL: Core i7 1355U 1.7GHz\nBộ nhớ RAM: 16Gb (2x8Gb) DDR4 3200\nỔ cứng: 512Gb SSD\nCard màn hình: VGA Nvidia - Nvidia GeForce MX550 2GB GDDR6\nKích thước màn hình: 15.6inch Full HD\nHệ điều hành: Windows 11 Home + Office Student",
+      "quantity": "25",
+      "userId": 1,
+      "id": 8
+    }
+  ]
+}
